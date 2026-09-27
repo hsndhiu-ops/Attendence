@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Clearance System",
+  "description": "Production-grade institutional portal replacing paper forms for college attendance clearance workflows across Students, Teachers, and Office Administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
